@@ -46,7 +46,7 @@ public:
 
 protected:
 	virtual void BeginPlay();
-
+	
 public:
 		
 	/** Look Input Action */
